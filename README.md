@@ -1,3 +1,4 @@
 # flask-app
 
-This is a simple flask application.
+The source code for the article [Deploy Flask Application on Heroku](https://arlenx.io/Blog/10+Articles/Deploy+Flask+Application+on+Heroku).
+
